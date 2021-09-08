@@ -1,0 +1,20 @@
+// Destiny 2, Every weapon to date
+
+// Each list is broken down by season with headers of weapon types, there will also be Tiers placed on notes.
+// This is so when you go into DIM - when looking at the weapon it will say T1, T2 or T3 base off the ranking Light.gg is providing 
+
+// T1 = 4.01 - 5.0   ranking on PVE/PVP
+// T2 = 3.01 - 4.0   ranking on PVE/PVP
+// T3 = 0.00 - 3.0   ranking on PVE/PVP 
+
+// Last updated - 9/8/2021 by Had#0001 on discord.
+// If there is anything I have missed or have not updated yet. Please take the time to message me via discord and I will be more than happy to update the WishList ASAP. - Thank you, Had
+
+
+
+// Season 1
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+
+
