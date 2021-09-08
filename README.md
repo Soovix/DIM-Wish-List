@@ -1,2 +1,2 @@
 # DIM-Wish-List
-God Role
+MasterList of God Roles
