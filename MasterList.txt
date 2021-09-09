@@ -1,4 +1,4 @@
-// Destiny 2, Every weapon to date
+// Destiny 2, Every weapon to date, unless listed as trash
 
 // Each list is broken down by season with headers of weapon types, there will also be Tiers placed on notes.
 // This is so when you go into DIM - when looking at the weapon it will say T1, T2 or T3 base off the ranking Light.gg is providing 
@@ -10,11 +10,869 @@
 // Last updated - 9/8/2021 by Had#0001 on discord.
 // If there is anything I have missed or have not updated yet. Please take the time to message me via discord and I will be more than happy to update the WishList ASAP. - Thank you, Had
 
+// *** Also, If there is no weapons listed in a season other than Exotic, this is because the light level can not be upgraded
 
 
-// Season 1
+//
+// ** Season 1 **
+//
+
 
 // Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
 
+// SWEET BUSINESS
+//notes: (T1-PVE/T1-PVP): T1-PVP,T1-PVP|tags:T1
+dimwishlist:item=1345867570&perks=
 
+// STURM
+//notes: (T2-PVE/T1-PVP): T2-PVE,T1-PVP|tags:T2-PVE,T1-PVP
+dimwishlist:item=2907129556&perks=
+
+// VIGILANCE WING
+//notes: (T3-PVE/T1-PVP): T3-PVE,T1-PVP|tags:T3-PVE,T1-PVP
+dimwishlist:item=3628991659&perks=
+
+// MIDA MULTI-TOOL
+//notes: (T2-PVE/T1-PVP): T2-PVE,T1-PVP|tags:T2-PVE,T1-PVP
+dimwishlist:item=1331482397&perks=
+
+// RAT KING
+//notes: (T1-PVE/T2-PVP): T1-PVE,T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=2362471601&perks=
+
+// HARD LIGHT
+//notes: (T2-PVE/T1-PVP): T2-PVE,T1-PVP|tags:T2-PVE,T1-PVP
+dimwishlist:item=4124984448&perks=
+
+// MERCILESS
+//notes: (T1-PVE/T2-PVP): T1-PVE,T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=4190156464&perks=
+
+// FIGHTING LION
+//notes: (T2-PVE/T2-PVP): T2-PVE,T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=3549153978&perks=
+
+// SUNSHOT
+//notes: (T1-PVE/T2-PVP): T1-PVE,T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=2907129557&perks=
+
+// GRAVITON LANCE
+//notes: (T1-PVE/T2-PVP): T1-PVE,T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=3628991658&perks=
+
+// SKYBURNER'S OATH
+//notes: (T3-PVE/T3-PVP): T3-PVE,T3-PVP|tags:T3-PVE,T3-PVP
+dimwishlist:item=4255268456&perks=
+
+// BOREALIS
+//notes: (T2-PVE/T3-PVP): T2-PVE,T3-PVP|tags:T2-PVE,T3-PVP
+dimwishlist:item=3141979347&perks=
+
+// RISKRUNNER
+//notes: (T1-PVE/T2-PVP): T1-PVE,T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=3089417789&perks=
+
+// COLDHEART
+//notes: (T1-PVE/T2-PVP): T1-PVE,T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=1345867571&perks=
+
+// THE PROSPECTOR
+//notes: (T2-PVE/T3-PVP): T2-PVE,T3-PVP|tags:T2-PVE,T3-PVP
+dimwishlist:item=3549153979&perks=
+
+// THE WARDCLIFF COIL
+//notes: (T1-PVE/T1-PVP): T1-PVE,T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=1508896098&perks=
+
+// LEGEND OF ACRIUS
+//notes: (T1-PVE/T1-PVP): T1-PVE,T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=1744115122&perks=
+
+// LEGEND OF ACRIUS + 2
+//notes: (T2-PVE/T2-PVP): T2-PVE,T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=3580904580&perks=
+
+// TRACTOR CANNON
+//notes: (T1-PVE/T1-PVP): T1-PVE,T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=3580904581&perks=
+
+// D.A.R.C.I.
+//notes: (T2-PVE/T3-PVP): T2-PVE,T3-PVP|tags:T2-PVE,T3-PVP
+dimwishlist:item=3141979346&perks=
+
+
+//
+// ** Season 2 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// CRIMSON
+//notes: (T2-PVE/T1-PVP): T2-PVE,T1-PVP|tags:T2-PVE,T1-PVP
+dimwishlist:item=3437746471&perks=
+
+// THE JADE RABBIT
+//notes: (T3-PVE/T2-PVP): T3-PVE,T2-PVP|tags:T3-PVE,T2-PVP
+dimwishlist:item=3844694310&perks=
+
+// TELESTO
+//notes: (T1-PVE/T1-PVP): T1-PVE,T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=2208405142&perks=
+
+// PROMETHEUS LENS
+//notes: (T1-PVE/T3-PVP): T1-PVE,T3-PVP|tags:T1-PVE,T3-PVP
+dimwishlist:item=19024058&perks=
+
+// THE COLONY
+//notes: (T2-PVE/T1-PVP): T2-PVE,T1-PVP|tags:T2-PVE,T1-PVP
+dimwishlist:item=3899270607&perks=
+
+
+//
+// ** Season 3 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// SUROS REGIME
+//notes: (T3-PVE/T1-PVP): T3-PVE/T1-PVP|tags:T3-PVE,T1-PVP
+dimwishlist:item=2856683562&perks=
+
+// THE HUCKLEBERRY
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=2286143274&perks=
+
+// LORENTZ DRIVER
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=3761898871&perks=
+
+// POLARIS LANCE -- Part of Season 15 Pass Rewards Set
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=3413074534&perks=
+
+// SLEEPER SIMULANT
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=4036115577&perks=
+
+// WHISPER OF THE WORM
+//notes: (T1-PVE/T3-PVP): T1-PVE/T3-PVP|tags:T1-PVE,T3-PVP
+dimwishlist:item=1891561814&perks=
+
+// WORLDLINE ZERO
+//notes: (T3-PVE/T3-PVP): T3-PVE/T3-PVP|tags:T3-PVE,T3-PVP
+dimwishlist:item=1864563948&perks=
+
+
+//
+// ** Season 4 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// CERBERUS+1
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=1541131350&perks=
+
+// WISH-ENDER
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=814876684&perks=
+
+// ACE OF SPADES
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=347366834&perks=
+
+// MALFEASANCE
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=204878059&perks=
+
+// THE CHAPERONE
+//notes: (T2-PVE/T1-PVP): T2-PVE/T1-PVP|tags:T2-PVE,T1-PVP
+dimwishlist:item=3413860062&perks=
+
+// TRINITY GHOUL
+//notes: (T1-PVE/T3-PVP): T1-PVE/T3-PVP|tags:T1-PVE,T3-PVP
+dimwishlist:item=814876685&perks=
+
+// LORD OF WOLVES
+//notes: (T2-PVE/T3-PVP): T2-PVE/T3-PVP|tags:T2-PVE,T3-PVP
+dimwishlist:item=3413860063&perks=
+
+// WAVESPLITTER
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=1852863732&perks=
+
+// ONE THOUSAND VOICES
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=2069224589&perks=
+
+// THE QUEENBREAKER
+//notes: (T3-PVE/T3-PVP): T3-PVE/T3-PVP|tags:T3-PVE,T3-PVP
+dimwishlist:item=2044500762&perks=
+
+// THUNDERLORD
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=3325463374&perks=
+
+// TWO-TAILED FOX
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=2694576561&perks=
+
+// BLACK TALON
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=3766045777&perks=
+
+
+//
+// ** Season 5 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// THE LAST WORD
+//notes: (T3-PVE/T1-PVP): T3-PVE/T1-PVP|tags:T3-PVE,T1-PVP
+dimwishlist:item=1364093401&perks=
+
+// IZANAGI'S BURDEN
+//notes: (T1-PVE/T3-PVP): T1-PVE/T3-PVP|tags:T1-PVE,T3-PVP
+dimwishlist:item=3211806999&perks=
+
+// LE MONARQUE
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=3588934839&perks=
+
+// JÖTUNN
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=417164956&perks=
+
+// ANARCHY
+//notes: (T1-PVE/T3-PVP): T1-PVE/T3-PVP|tags:T1-PVE,T3-PVP
+dimwishlist:item=2376481550&perks=
+
+
+//
+// ** Season 6 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// THORN
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=3973202132&perks=
+
+// ARBALEST
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=2130065553&perks=
+
+// OUTBREAK PERFECTED
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=400096939&perks=
+
+
+//
+// ** Season 7 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// LUMINA
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=3512014804&perks=
+
+// BAD JUJU
+//notes: (T1-PVE/T3-PVP): T1-PVE/T3-PVP|tags:T1-PVE,T3-PVP
+dimwishlist:item=2816212794&perks=
+
+// TARRABAH
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=3110698812&perks=
+
+// TRUTH
+//notes: (T3-PVE/T1-PVP): T3-PVE/T1-PVP|tags:T3-PVE,T1-PVP
+dimwishlist:item=1201830623&perks=
+
+
+//
+// ** Season 8 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// MONTE CARLO
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=4068264807&perks=
+
+// ERIANA'S VOW
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=3524313097&perks=
+
+// DIVINITY
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=4103414242&perks=
+
+// LEVIATHAN'S BREATH
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=2591746970&perks=
+
+// XENOPHAGE
+//notes: (T2-PVE/T3-PVP): T2-PVE/T3-PVP|tags:T2-PVE,T3-PVP
+dimwishlist:item=1395261499&perks=
+
+// DEATHBRINGER
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=2232171099&perks=
+
+
+//
+// ** Season 9 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// BASTION
+//notes: (T3-PVE/T2-PVP): T3-PVE/T2-PVP|tags:T3-PVE,T2-PVP
+dimwishlist:item=2415517654&perks=
+
+// SYMMETRY
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=4017959782&perks=
+
+// DEVIL'S RUIN
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=3824106094&perks=
+
+
+//
+// ** Season 10 **
+//
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// TOMMY'S MATCHBOOK
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=776191470&perks=
+
+// THE FOURTH HORSEMAN
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=1665952087&perks=
+
+// HEIR APPARENT
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=2084878005&perks=
+
+
+//
+// ** Season 11 **
+//
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// WITHERHOARD
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=2357297366&perks=
+
+// TRAVELER'S CHOSEN
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=1853180924&perks=
+
+// RUINOUS EFFIGY
+//notes: (T1-PVE/T3-PVP): T1-PVE/T3-PVP|tags:T1-PVE,T3-PVP
+dimwishlist:item=1363238943&perks=
+
+
+//
+// ** Season 12 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// HAWKMOON
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=3856705927&perks=
+
+// NO TIME TO EXPLAIN
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=1594120904&perks=
+
+// DUALITY
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=3460576091&perks=
+
+// CLOUDSTRIKE
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=2603483885&perks=
+
+// SALVATION'S GRIP
+//notes: (T2-PVE/T3-PVP): T2-PVE/T3-PVP|tags:T2-PVE,T3-PVP
+dimwishlist:item=370712896&perks=
+
+// EYES OF TOMORROW
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=2399110176&perks=
+
+// THE LAMENT
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=3487253372&perks=
+
+
+//
+// ** Season 13 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// DEAD MAN'S TALE
+//notes: (T1-PVE/T1-PVP): T1-PVE/T1-PVP|tags:T1-PVE,T1-PVP
+dimwishlist:item=3654674561&perks=
+
+// TICUU'S DIVINATION
+//notes: (T1-PVE/T2-PVP): T1-PVE/T2-PVP|tags:T1-PVE,T2-PVP
+dimwishlist:item=3260753130&perks=
+
+
+//
+// ** Season 14 **
+//
+
+
+// Exotic weapons, these will not be listed by weapon type just a short list to see if you have them in the vault, although they will provid tiers
+
+// CRYOSTHESIA 77K
+//notes: (T3-PVE/T3-PVP): T3-PVE/T3-PVP|tags:T3-PVE,T3-PVP
+dimwishlist:item=603721696&perks=
+
+// VEX MYTHOCLAST
+//notes: (T2-PVE/T2-PVP): T2-PVE/T2-PVP|tags:T2-PVE,T2-PVP
+dimwishlist:item=4289226715&perks=
+
+
+//
+// ** Season 15 **
+//
+
+
+//
+// ** Sword **
+//
+
+// CROWN-SPLITTER
+//notes: (T3-PVP): Masterwork for +4 Impact, No Mods|tags:T3-PVP
+dimwishlist:item=2782325302&perks=2827049491,2726471870,1546637391
+
+// CROWN-SPLITTER
+//notes: (T1-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T1-PVE
+dimwishlist:item=2782325302&perks=938542991,1749209109,1546637391
+dimwishlist:item=2782325302&perks=938542991,2590710093,1546637391
+
+// THRONE-CLEAVER
+//notes: (T1-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T1+-PVE
+dimwishlist:item=569799273&perks=3666208348,818211479,3016987351
+
+// QUICKFANG
+//notes: (T1-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T1+-PVE
+dimwishlist:item=2782325300&perks=938542991,2590710093,4049631843
+
+// ETERNITY'S EDGE
+//notes: (T1-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T1-PVE
+dimwishlist:item=2782325301&perks=938542991,1749209109,354401740
+dimwishlist:item=2782325301&perks=938542991,2590710093,354401740
+
+// ABIDE THE RETURN
+//notes: (T3-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T3-PVE
+dimwishlist:item=1644160541&perks=436053704,52780822,1749209109,3913600130
+dimwishlist:item=1644160541&perks=938542991,52780822,1749209109,3913600130
+dimwishlist:item=1644160541&perks=436053704,2349202967,1749209109,3913600130
+dimwishlist:item=1644160541&perks=938542991,2349202967,1749209109,3913600130
+
+// BEQUEST
+//notes: (T2-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T2-PVE
+dimwishlist:item=3366545721&perks=938542991,3625355092,2590710093,3708227201
+dimwishlist:item=3366545721&perks=3666208348,3625355092,2590710093,3708227201
+dimwishlist:item=3366545721&perks=2827049491,3625355092,2590710093,3708227201
+dimwishlist:item=3366545721&perks=938542991,3625355092,2726471870,3708227201
+dimwishlist:item=3366545721&perks=3666208348,3625355092,2726471870,3708227201
+dimwishlist:item=3366545721&perks=2827049491,3625355092,2726471870,3708227201
+dimwishlist:item=3366545721&perks=938542991,3625355092,2590710093,1685431615
+dimwishlist:item=3366545721&perks=3666208348,3625355092,2590710093,1685431615
+dimwishlist:item=3366545721&perks=2827049491,3625355092,2590710093,1685431615
+dimwishlist:item=3366545721&perks=938542991,3625355092,2726471870,1685431615
+dimwishlist:item=3366545721&perks=3666208348,3625355092,2726471870,1685431615
+dimwishlist:item=3366545721&perks=2827049491,3625355092,2726471870,1685431615
+
+// FALLING GUILLOTINE
+//notes: (T1-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T1-PVE
+dimwishlist:item=614426548&perks=2827049491,3625355092,2590710093,3708227201
+dimwishlist:item=614426548&perks=3666208348,3625355092,2590710093,3708227201
+dimwishlist:item=614426548&perks=938542991,3625355092,2590710093,3708227201
+dimwishlist:item=614426548&perks=2827049491,2349202967,2590710093,3708227201
+dimwishlist:item=614426548&perks=3666208348,2349202967,2590710093,3708227201
+dimwishlist:item=614426548&perks=938542991,2349202967,2590710093,3708227201
+dimwishlist:item=614426548&perks=2827049491,269888150,2590710093,3708227201
+dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,3708227201
+dimwishlist:item=614426548&perks=938542991,269888150,2590710093,3708227201
+dimwishlist:item=614426548&perks=2827049491,3625355092,1749209109,3708227201
+dimwishlist:item=614426548&perks=3666208348,3625355092,1749209109,3708227201
+dimwishlist:item=614426548&perks=938542991,3625355092,1749209109,3708227201
+dimwishlist:item=614426548&perks=2827049491,2349202967,1749209109,3708227201
+dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3708227201
+dimwishlist:item=614426548&perks=938542991,2349202967,1749209109,3708227201
+dimwishlist:item=614426548&perks=2827049491,269888150,1749209109,3708227201
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=614426548&perks=938542991,269888150,1749209109,3708227201
+dimwishlist:item=614426548&perks=2827049491,3625355092,2590710093,3913600130
+dimwishlist:item=614426548&perks=3666208348,3625355092,2590710093,3913600130
+dimwishlist:item=614426548&perks=938542991,3625355092,2590710093,3913600130
+dimwishlist:item=614426548&perks=2827049491,2349202967,2590710093,3913600130
+dimwishlist:item=614426548&perks=3666208348,2349202967,2590710093,3913600130
+dimwishlist:item=614426548&perks=938542991,2349202967,2590710093,3913600130
+dimwishlist:item=614426548&perks=2827049491,269888150,2590710093,3913600130
+dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,3913600130
+dimwishlist:item=614426548&perks=938542991,269888150,2590710093,3913600130
+dimwishlist:item=614426548&perks=2827049491,3625355092,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,3625355092,1749209109,3913600130
+dimwishlist:item=614426548&perks=938542991,3625355092,1749209109,3913600130
+dimwishlist:item=614426548&perks=2827049491,2349202967,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3913600130
+dimwishlist:item=614426548&perks=938542991,2349202967,1749209109,3913600130
+dimwishlist:item=614426548&perks=2827049491,269888150,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=614426548&perks=938542991,269888150,1749209109,3913600130
+
+// HONOR'S EDGE
+//notes: (T2-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T2-PVE
+dimwishlist:item=2857348871&perks=2827049491,52780822,2590710093,3016987351
+dimwishlist:item=2857348871&perks=3666208348,52780822,2590710093,3016987351
+dimwishlist:item=2857348871&perks=938542991,52780822,2590710093,3016987351
+dimwishlist:item=2857348871&perks=2827049491,3625355092,2590710093,3016987351
+dimwishlist:item=2857348871&perks=3666208348,3625355092,2590710093,3016987351
+dimwishlist:item=2857348871&perks=938542991,3625355092,2590710093,3016987351
+
+// NEGATIVE SPACE
+//notes: (T2-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T2-PVE
+dimwishlist:item=3629968765&perks=2827049491,3625355092,2590710093,3708227201
+dimwishlist:item=3629968765&perks=3666208348,3625355092,2590710093,3708227201
+dimwishlist:item=3629968765&perks=938542991,3625355092,2590710093,3708227201
+dimwishlist:item=3629968765&perks=2827049491,599007201,2590710093,3708227201
+dimwishlist:item=3629968765&perks=3666208348,599007201,2590710093,3708227201
+dimwishlist:item=3629968765&perks=938542991,599007201,2590710093,3708227201
+dimwishlist:item=3629968765&perks=2827049491,2349202967,2590710093,3708227201
+dimwishlist:item=3629968765&perks=3666208348,2349202967,2590710093,3708227201
+dimwishlist:item=3629968765&perks=938542991,2349202967,2590710093,3708227201
+dimwishlist:item=3629968765&perks=2827049491,3625355092,1749209109,3708227201
+dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3708227201
+dimwishlist:item=3629968765&perks=938542991,3625355092,1749209109,3708227201
+dimwishlist:item=3629968765&perks=2827049491,599007201,1749209109,3708227201
+dimwishlist:item=3629968765&perks=3666208348,599007201,1749209109,3708227201
+dimwishlist:item=3629968765&perks=938542991,599007201,1749209109,3708227201
+dimwishlist:item=3629968765&perks=2827049491,2349202967,1749209109,3708227201
+dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3708227201
+dimwishlist:item=3629968765&perks=938542991,2349202967,1749209109,3708227201
+
+// NIGHT TERROR
+//notes: (T2-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T2-PVE
+dimwishlist:item=3870811754&perks=2827049491,2349202967,2590710093,3913600130
+dimwishlist:item=3870811754&perks=2827049491,2349202967,2590710093,1546637391
+
+// SOLA'S SCAR
+//notes: (T1-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T1-PVE
+dimwishlist:item=1313528549&perks=2827049491,52780822,2590710093,1546637391
+dimwishlist:item=1313528549&perks=3666208348,52780822,2590710093,1546637391
+dimwishlist:item=1313528549&perks=938542991,52780822,2590710093,1546637391
+dimwishlist:item=1313528549&perks=2827049491,3625355092,2590710093,1546637391
+dimwishlist:item=1313528549&perks=3666208348,3625355092,2590710093,1546637391
+dimwishlist:item=1313528549&perks=938542991,3625355092,2590710093,1546637391
+dimwishlist:item=1313528549&perks=2827049491,269888150,2590710093,1546637391
+dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,1546637391
+dimwishlist:item=1313528549&perks=938542991,269888150,2590710093,1546637391
+dimwishlist:item=1313528549&perks=2827049491,52780822,2590710093,2396489472
+dimwishlist:item=1313528549&perks=3666208348,52780822,2590710093,2396489472
+dimwishlist:item=1313528549&perks=938542991,52780822,2590710093,2396489472
+dimwishlist:item=1313528549&perks=2827049491,3625355092,2590710093,2396489472
+dimwishlist:item=1313528549&perks=3666208348,3625355092,2590710093,2396489472
+dimwishlist:item=1313528549&perks=938542991,3625355092,2590710093,2396489472
+dimwishlist:item=1313528549&perks=2827049491,269888150,2590710093,2396489472
+dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2396489472
+dimwishlist:item=1313528549&perks=938542991,269888150,2590710093,2396489472
+
+// SOLA'S SCAR (ADEPT)
+//notes: (T2-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T2-PVE
+dimwishlist:item=3847137620&perks=2827049491,52780822,2590710093,1546637391
+dimwishlist:item=3847137620&perks=3666208348,52780822,2590710093,1546637391
+dimwishlist:item=3847137620&perks=938542991,52780822,2590710093,1546637391
+dimwishlist:item=3847137620&perks=2827049491,3625355092,2590710093,1546637391
+dimwishlist:item=3847137620&perks=3666208348,3625355092,2590710093,1546637391
+dimwishlist:item=3847137620&perks=938542991,3625355092,2590710093,1546637391
+dimwishlist:item=3847137620&perks=2827049491,269888150,2590710093,1546637391
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,1546637391
+dimwishlist:item=3847137620&perks=938542991,269888150,2590710093,1546637391
+dimwishlist:item=3847137620&perks=2827049491,52780822,2590710093,2396489472
+dimwishlist:item=3847137620&perks=3666208348,52780822,2590710093,2396489472
+dimwishlist:item=3847137620&perks=938542991,52780822,2590710093,2396489472
+dimwishlist:item=3847137620&perks=2827049491,3625355092,2590710093,2396489472
+dimwishlist:item=3847137620&perks=3666208348,3625355092,2590710093,2396489472
+dimwishlist:item=3847137620&perks=938542991,3625355092,2590710093,2396489472
+dimwishlist:item=3847137620&perks=2827049491,269888150,2590710093,2396489472
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2396489472
+dimwishlist:item=3847137620&perks=938542991,269888150,2590710093,2396489472
+
+// STEEL SYBIL Z-14
+//notes: (T1-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T1-PVE
+dimwishlist:item=4230993599&perks=2827049491,52780822,2590710093,3913600130
+dimwishlist:item=4230993599&perks=3666208348,52780822,2590710093,3913600130
+dimwishlist:item=4230993599&perks=938542991,52780822,2590710093,3913600130
+dimwishlist:item=4230993599&perks=2827049491,3625355092,2590710093,3913600130
+dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,3913600130
+dimwishlist:item=4230993599&perks=938542991,3625355092,2590710093,3913600130
+dimwishlist:item=4230993599&perks=2827049491,269888150,2590710093,3913600130
+dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,3913600130
+dimwishlist:item=4230993599&perks=938542991,269888150,2590710093,3913600130
+dimwishlist:item=4230993599&perks=2827049491,52780822,2590710093,354401740
+dimwishlist:item=4230993599&perks=3666208348,52780822,2590710093,354401740
+dimwishlist:item=4230993599&perks=938542991,52780822,2590710093,354401740
+dimwishlist:item=4230993599&perks=2827049491,3625355092,2590710093,354401740
+dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,354401740
+dimwishlist:item=4230993599&perks=938542991,3625355092,2590710093,354401740
+dimwishlist:item=4230993599&perks=2827049491,269888150,2590710093,354401740
+dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,354401740
+dimwishlist:item=4230993599&perks=938542991,269888150,2590710093,354401740
+
+// TEMPTATION'S HOOK
+//notes: (T2-PVE): Masterwork for +4 Impact with Boss Spec or Major Spec|tags:T2-PVE
+dimwishlist:item=35794111&perks=2827049491,3625355092,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,3625355092,2590710093,1546637391
+dimwishlist:item=35794111&perks=938542991,3625355092,2590710093,1546637391
+dimwishlist:item=35794111&perks=2827049491,2349202967,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,2349202967,2590710093,1546637391
+dimwishlist:item=35794111&perks=938542991,2349202967,2590710093,1546637391
+dimwishlist:item=35794111&perks=2827049491,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=938542991,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=2827049491,3625355092,1749209109,1546637391
+dimwishlist:item=35794111&perks=3666208348,3625355092,1749209109,1546637391
+dimwishlist:item=35794111&perks=938542991,3625355092,1749209109,1546637391
+dimwishlist:item=35794111&perks=2827049491,2349202967,1749209109,1546637391
+dimwishlist:item=35794111&perks=3666208348,2349202967,1749209109,1546637391
+dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,1546637391
+dimwishlist:item=35794111&perks=2827049491,269888150,1749209109,1546637391
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391
+dimwishlist:item=35794111&perks=938542991,269888150,1749209109,1546637391
+
+
+//
+// ** Scout Rifle **
+//
+
+// HUNG JURY SR4
+//notes: (T1-PVE): Masterwork for +10 Stability & +3 in all, Use Major Spec Mod|tags:T1-PVE
+dimwishlist:item=4281371574&perks=1840239774,106909392,1820235745,3824105627
+dimwishlist:item=4281371574&perks=1482024992,106909392,1820235745,3824105627
+
+// HUNG JURY SR4
+//notes: (T3-PVP): Masterwork for +10 Stability & +3 in all, Use Sprint Grip or Radar Tuner Mod|tags:T3-PVP
+dimwishlist:item=4281371574&perks=1840239774,3142289711,588594999,2551157718
+dimwishlist:item=4281371574&perks=1482024992,3142289711,588594999,2551157718
+dimwishlist:item=4281371574&perks=1840239774,3142289711,247725512,2551157718
+dimwishlist:item=4281371574&perks=1482024992,3142289711,247725512,2551157718
+
+// HUNG JURY SR4 (ADEPT)
+//notes: (T3-PVP): Masterwork for +10 Stability & +3 in all, Use Sprint Grip or Radar Tuner Mod|tags:T3-PVP
+dimwishlist:item=681067419&perks=1840239774,3142289711,588594999,2551157718
+dimwishlist:item=681067419&perks=1482024992,3142289711,588594999,2551157718
+dimwishlist:item=681067419&perks=1840239774,3142289711,247725512,2551157718
+dimwishlist:item=681067419&perks=1482024992,3142289711,247725512,2551157718
+
+// HUNG JURY SR4 (ADEPT)
+//notes: (T1-PVE): Masterwork for +10 Stability & +3 in all, Use Major Spec Mod|tags:T3-PVP
+dimwishlist:item=681067419&perks=1840239774,106909392,1820235745,3824105627
+dimwishlist:item=681067419&perks=1482024992,106909392,1820235745,3824105627
+
+// NIGHT WATCH
+//notes: (T1-PVE/T2-PVP): Masterwork for +10 Stability & +3 in all, Use Major Spec Mod|tags:T1-PVE,T2-PVP
+dimwishlist:item=3504336176&perks=839105230,106909392,957782887,3038247973
+dimwishlist:item=3504336176&perks=3661387068,106909392,957782887,3038247973
+dimwishlist:item=3504336176&perks=1840239774,106909392,957782887,3038247973
+
+// SERVANT LEADER
+//notes: (T1-PVE): Masterwork for +10 Stability & +3 in all|tags:T1-PVE
+dimwishlist:item=1107446438&perks=4090651448,106909392,247725512,4104185692
+dimwishlist:item=1107446438&perks=1840239774,106909392,247725512,4104185692
+dimwishlist:item=1107446438&perks=4090651448,106909392,1820235745,4104185692
+dimwishlist:item=1107446438&perks=1840239774,106909392,1820235745,4104185692
+dimwishlist:item=1107446438&perks=4090651448,106909392,247725512,1774574192
+dimwishlist:item=1107446438&perks=1840239774,106909392,247725512,1774574192
+dimwishlist:item=1107446438&perks=4090651448,106909392,1820235745,1774574192
+dimwishlist:item=1107446438&perks=1840239774,106909392,1820235745,1774574192
+
+// SERVANT LEADER
+//notes: (T1-PVP): Masterwork for +10 Stability & +3 in all|tags:T1-PVP
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1570042021,1015611457
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1168162263,1015611457
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1570042021,3425386926
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1168162263,3425386926
+
+// TALONS OF THE EAGLE
+//notes: (T2-PVE): Masterwork for +10 Stability & +3 in all|tags:T2-PVE
+dimwishlist:item=1982711279&perks=839105230,106909392,2387244414,3425386926
+dimwishlist:item=1982711279&perks=4090651448,106909392,2387244414,3425386926
+dimwishlist:item=1982711279&perks=1840239774,106909392,2387244414,3425386926
+dimwishlist:item=1982711279&perks=839105230,3177308360,2387244414,3425386926
+dimwishlist:item=1982711279&perks=4090651448,3177308360,2387244414,3425386926
+dimwishlist:item=1982711279&perks=1840239774,3177308360,2387244414,3425386926
+dimwishlist:item=1982711279&perks=839105230,106909392,2387244414,3038247973
+dimwishlist:item=1982711279&perks=4090651448,106909392,2387244414,3038247973
+dimwishlist:item=1982711279&perks=1840239774,106909392,2387244414,3038247973
+dimwishlist:item=1982711279&perks=839105230,3177308360,2387244414,3038247973
+dimwishlist:item=1982711279&perks=4090651448,3177308360,2387244414,3038247973
+dimwishlist:item=1982711279&perks=1840239774,3177308360,2387244414,3038247973
+
+// TALONS OF THE EAGLE
+//notes: (T2-PVP): Masterwork for +10 Stability & +3 in all|tags:T2-PVP
+dimwishlist:item=1982711279&perks=839105230,106909392,2387244414,47981717
+dimwishlist:item=1982711279&perks=4090651448,106909392,2387244414,47981717
+dimwishlist:item=1982711279&perks=1840239774,106909392,2387244414,47981717
+dimwishlist:item=1982711279&perks=839105230,106909392,280464955,47981717
+dimwishlist:item=1982711279&perks=4090651448,106909392,280464955,47981717
+dimwishlist:item=1982711279&perks=1840239774,106909392,280464955,47981717
+dimwishlist:item=1982711279&perks=839105230,106909392,2387244414,588594999
+dimwishlist:item=1982711279&perks=4090651448,106909392,2387244414,588594999
+dimwishlist:item=1982711279&perks=1840239774,106909392,2387244414,588594999
+dimwishlist:item=1982711279&perks=839105230,106909392,280464955,588594999
+dimwishlist:item=1982711279&perks=4090651448,106909392,280464955,588594999
+dimwishlist:item=1982711279&perks=1840239774,106909392,280464955,588594999
+
+// THE GUIDING SIGHT
+//notes: (T2-PVE): Masterwork for +10 Stability & +3 in all|tags:T2-PVE
+dimwishlist:item=1641430382&perks=13792279,1561002382,247725512,1546637391
+dimwishlist:item=1641430382&perks=2405638014,1561002382,247725512,1546637391
+dimwishlist:item=1641430382&perks=13792279,1885400500,247725512,1546637391
+dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,1546637391
+dimwishlist:item=1641430382&perks=13792279,1561002382,706527188,1546637391
+dimwishlist:item=1641430382&perks=2405638014,1561002382,706527188,1546637391
+dimwishlist:item=1641430382&perks=13792279,1885400500,706527188,1546637391
+dimwishlist:item=1641430382&perks=2405638014,1885400500,706527188,1546637391
+
+// THE GUIDING SIGHT
+//notes: (T2-PVP): Masterwork for +10 Stability & +3 in all, Use Targeting Adjuster Mod|tags:T2-PVP
+dimwishlist:item=1641430382&perks=13792279,1885400500,3161816588,11551321
+
+// THE SCHOLAR
+//notes: (T3-PVE/T3-PVP): Masterwork for +10 Stability & +3 in all|tags:T3-PVE
+dimwishlist:item=2478792241&perks=4090651448,1561002382,706527188,1546637391
+dimwishlist:item=2478792241&perks=1482024992,1561002382,706527188,1546637391
+dimwishlist:item=2478792241&perks=4090651448,1885400500,706527188,1546637391
+dimwishlist:item=2478792241&perks=1482024992,1885400500,706527188,1546637391
+dimwishlist:item=2478792241&perks=4090651448,1561002382,706527188,3511092054
+dimwishlist:item=2478792241&perks=1482024992,1561002382,706527188,3511092054
+dimwishlist:item=2478792241&perks=4090651448,1885400500,706527188,3511092054
+dimwishlist:item=2478792241&perks=1482024992,1885400500,706527188,3511092054
+
+// THE SCHOLAR (ADEPT)
+//notes: (T3-PVE/T1-PVP): Masterwork for +10 Stability & +3 in all|tags:T3-PVE,T1-PVP
+dimwishlist:item=2386979999&perks=4090651448,1561002382,2039302152
+dimwishlist:item=2386979999&perks=1482024992,1561002382,2039302152
+dimwishlist:item=2386979999&perks=4090651448,1885400500,2039302152
+dimwishlist:item=2386979999&perks=1482024992,1885400500,2039302152
+
+// TRANSFIGURATION
+//notes: (T1-PVE/T2-PVP): Masterwork for +10 Stability & +3 in all, Use Handling Mod|tags:T1-PVE,T2-PVP
+dimwishlist:item=3799980700&perks=4090651448,2420895100,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1467527085,2420895100,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1482024992,2420895100,3425386926,1015611457
+dimwishlist:item=3799980700&perks=4090651448,1431678320,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1467527085,1431678320,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1482024992,1431678320,3425386926,1015611457
+
+// PLAN D'URGENCE
+//notes: (T2-PVE/T1-PVP): Masterwork for +10 Stability & +3 in all|tags:T2-PVE,T1-PVP
+dimwishlist:item=577528837&perks=4090651448,106909392,1820235745,1015611457
+dimwishlist:item=577528837&perks=1467527085,106909392,1820235745,1015611457
+dimwishlist:item=577528837&perks=1482024992,106909392,1820235745,1015611457
+dimwishlist:item=577528837&perks=4090651448,106909392,1820235745,4104185692
+dimwishlist:item=577528837&perks=1467527085,106909392,1820235745,4104185692
+dimwishlist:item=577528837&perks=1482024992,106909392,1820235745,4104185692
+
+// ETERNAL BLAZON
+//notes: (T1-PVE/T2-PVP): Masterwork for +10 Stability & +3 in all|tags:T1-PVE,T2-PVP
+dimwishlist:item=3514096004&perks=1628165636,1561002382,247725512,1015611457
+dimwishlist:item=3514096004&perks=1628165636,1885400500,247725512,1015611457
+
+// PLEIADES CORRECTOR
+//notes: (T3-PVE/T3-PVP): Masterwork for +10 Stability & +3 in all|tags:T3-PVE,T3-PVP
+dimwishlist:item=3556999246&perks=1840239774,1885400500,1820235745,2458213969
+dimwishlist:item=3556999246&perks=1840239774,1968497646,1820235745,2458213969
+dimwishlist:item=3556999246&perks=1840239774,1561002382,1820235745,2458213969
+dimwishlist:item=3556999246&perks=1840239774,1885400500,1354429876,2458213969
+dimwishlist:item=3556999246&perks=1840239774,1968497646,1354429876,2458213969
+dimwishlist:item=3556999246&perks=1840239774,1561002382,1354429876,2458213969
+dimwishlist:item=3556999246&perks=1840239774,1885400500,1820235745,3523296417
+dimwishlist:item=3556999246&perks=1840239774,1968497646,1820235745,3523296417
+dimwishlist:item=3556999246&perks=1840239774,1561002382,1820235745,3523296417
+dimwishlist:item=3556999246&perks=1840239774,1885400500,1354429876,3523296417
+dimwishlist:item=3556999246&perks=1840239774,1968497646,1354429876,3523296417
+dimwishlist:item=3556999246&perks=1840239774,1561002382,1354429876,3523296417
+
+// ROYAL CHASE
+//notes: (T1-PVE/T3-PVP): Masterwork for +10 Stability & +3 in all|tags:T1-PVE,T3-PVP
+dimwishlist:item=2776503072&perks=1840239774,106909392,4267945040,2458213969
+dimwishlist:item=2776503072&perks=1392496348,106909392,4267945040,2458213969
+dimwishlist:item=2776503072&perks=1482024992,106909392,4267945040,2458213969
+dimwishlist:item=2776503072&perks=1840239774,106909392,4267945040,2726471870
+dimwishlist:item=2776503072&perks=1392496348,106909392,4267945040,2726471870
+dimwishlist:item=2776503072&perks=1482024992,106909392,4267945040,2726471870
+dimwishlist:item=2776503072&perks=1840239774,106909392,4267945040,706527188
+dimwishlist:item=2776503072&perks=1392496348,106909392,4267945040,706527188
+dimwishlist:item=2776503072&perks=1482024992,106909392,4267945040,706527188
+
+// TRUSTEE
+//notes: (T1-PVE/T2-PVP): Masterwork for +10 Stability & +3 in all|tags:T1-PVE,T2-PVP
+dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,3592538738
+dimwishlist:item=1392919471&perks=1482024992,106909392,3436462433,3592538738
+
+// VISION OF CONFLUENCE
+//notes: (T1-PVE): Masterwork for +10 Stability & +3 in all|tags:T1-PVE
+dimwishlist:item=3186018373&perks=1482024992,1885400500,3418782618,3824105627
+
+// VISION OF CONFLUENCE
+//notes: (T3-PVP): Masterwork for +10 Stability & +3 in all|tags:T3-PVP
+dimwishlist:item=3186018373&perks=1840239774,1885400500,2450788523,1015611457
+
+// VISION OF CONFLUENCE (TIMELOST)
+//notes: (T3-PVP): Masterwork for +10 Stability & +3 in all|tags:T3-PVP
+dimwishlist:item=690668916&perks=1840239774,1885400500,2450788523,1015611457
+
+// VISION OF CONFLUENCE (TIMELOST)
+//notes: (T1-PVE): Masterwork for +10 Stability & +3 in all|tags:T1-PVE
+dimwishlist:item=690668916&perks=1482024992,1885400500,3418782618,3824105627
+
+// VOUCHSAFE
+//notes: (T1-PVE/T2-PVP): Masterwork for +10 Stability & +3 in all|tags:T1-PVE,T2-PVP
+dimwishlist:item=3242168339&perks=4090651448,3142289711,247725512,3038247973
+dimwishlist:item=3242168339&perks=1840239774,3142289711,247725512,3038247973
+dimwishlist:item=3242168339&perks=3250034553,3142289711,247725512,3038247973
+dimwishlist:item=3242168339&perks=1392496348,3142289711,247725512,3038247973
+dimwishlist:item=3242168339&perks=1482024992,3142289711,247725512,3038247973
+dimwishlist:item=3242168339&perks=4090651448,106909392,247725512,3038247973
+dimwishlist:item=3242168339&perks=1840239774,106909392,247725512,3038247973
+dimwishlist:item=3242168339&perks=3250034553,106909392,247725512,3038247973
+dimwishlist:item=3242168339&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=3242168339&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=3242168339&perks=4090651448,3177308360,247725512,3038247973
+dimwishlist:item=3242168339&perks=1840239774,3177308360,247725512,3038247973
+dimwishlist:item=3242168339&perks=3250034553,3177308360,247725512,3038247973
+dimwishlist:item=3242168339&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=3242168339&perks=1482024992,3177308360,247725512,3038247973
+
+
+//
+// **Submachine Guns**
+//
 
